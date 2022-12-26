@@ -18,7 +18,7 @@ import unidecode
 # tab of
 #   https://cloud.google.com/console
 # Please ensure that you have enabled the YouTube Data API for your project.
-DEVELOPER_KEY = "AIzaSyA2l9_K5kXnn1fKg6ib4tRzUcv0C_chcTo"
+DEVELOPER_KEY = ""
 YOUTUBE_API_SERVICE_NAME = "youtube"
 YOUTUBE_API_VERSION = "v3"
 
